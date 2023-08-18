@@ -1,5 +1,0 @@
-{{#user}}
-Name: MUPPURI VENKATESWARA VAMSI KUMAR
-Skills: Python,  Django, Flask, MySQL, PostgreSQL, Ajax, HTML, CSS, JS
-Email: vamsikumar487@gmail.com
-{{/user}}
